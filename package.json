@@ -1,0 +1,19 @@
+{
+  "name": "LocationMongoToCSV",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node v1/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fs-extra": "^11.2.0",
+    "mongodb": "2.2.26",
+    "path": "^0.12.7"
+  }
+}
